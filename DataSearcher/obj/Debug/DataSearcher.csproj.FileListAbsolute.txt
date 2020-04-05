@@ -1,0 +1,12 @@
+D:\Projects\fiverr\lamaya1\DataSearcher\bin\Debug\DataSearcher.exe.config
+D:\Projects\fiverr\lamaya1\DataSearcher\bin\Debug\DataSearcher.exe
+D:\Projects\fiverr\lamaya1\DataSearcher\bin\Debug\DataSearcher.pdb
+D:\Projects\fiverr\lamaya1\DataSearcher\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\fiverr\lamaya1\DataSearcher\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.DataSearcher.resources
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.PlayerInformationUserControl.resources
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.Properties.Resources.resources
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.csproj.GenerateResource.cache
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.csproj.CopyComplete
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.exe
+D:\Projects\fiverr\lamaya1\DataSearcher\obj\Debug\DataSearcher.pdb
